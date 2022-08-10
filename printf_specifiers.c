@@ -2,6 +2,7 @@
 
 /**
  * get_specifier - finds the format func
+ *
  * @s: the format string
  *
  * Return: the number of bytes printed
